@@ -1,0 +1,5 @@
+.vscode/
+main.cpp
+main.o.cpp
+test1.hpp
+test2.hpp
